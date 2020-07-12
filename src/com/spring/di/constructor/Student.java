@@ -6,7 +6,7 @@ public class Student {
 	private int age;
 	private String subjectStream;
 	
-	
+	// constructors
 	public Student(String studentName) {
 		this.studentName = studentName;
 	}
